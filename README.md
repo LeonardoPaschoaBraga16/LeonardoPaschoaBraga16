@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bem-vindo! Meu nome é Leonardo.
 
-<!--
-**LeonardoPaschoaBraga16/LeonardoPaschoaBraga16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tenho 16 anos e sou um programador iniciante. E estou atualmente me focando em desenvolver minhas habilidades para programação de websites e em busca de trabalho.
 
-Here are some ideas to get you started:
+### Estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML 5 
+* CSS 3
+* JavaScript
+* React JS
+* Electron
+
+<div>
+  <a href="https://github.com/LeonardoPaschoaBraga16">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoPaschoaBraga16&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPaschoaBraga16&layout=compact&theme=radical">
+</div>
+
+
+ 
