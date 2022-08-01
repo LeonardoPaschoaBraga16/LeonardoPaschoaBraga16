@@ -1,6 +1,6 @@
 # Bem-vindo! Meu nome é Leonardo.
 
-### Tenho 16 anos e sou um programador iniciante. E estou atualmente me focando em desenvolver minhas habilidades para programação de websites e em busca de trabalho.
+### Tenho 17 anos e sou um programador iniciante. E estou atualmente me focando em desenvolver minhas habilidades para programação de websites e em busca de trabalho.
 
 ### Estou estudando:
 
