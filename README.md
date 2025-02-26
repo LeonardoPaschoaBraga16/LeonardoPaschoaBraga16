@@ -1,7 +1,7 @@
 # Bem-vindo! Meu nome é Leonardo.
 
 ### Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Fatec.
-## Eae, bora codar?!
+### Eae, bora codar?!
 
 ### Trabalho com:
 
