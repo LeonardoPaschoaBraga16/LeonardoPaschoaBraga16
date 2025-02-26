@@ -1,6 +1,7 @@
 # Bem-vindo! Meu nome é Leonardo.
 
-### Tenho 17 anos e sou um programador iniciante. E estou atualmente me focando em desenvolver minhas habilidades para programação de websites e em busca de trabalho.
+### Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Fatec.
+## Eae, bora codar?!
 
 ### Trabalho com:
 
